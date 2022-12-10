@@ -1,7 +1,8 @@
 # Olga Shubina
 
 ## Contacts
-- email: ferloa08@gmail.com
+
+- Email: ferloa08@gmail.com
 
 - Github: olyashu
 
