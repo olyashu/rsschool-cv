@@ -37,4 +37,4 @@ South Ural State University
 
 ## English
  
-Beginner
+Pre-Intermediate
