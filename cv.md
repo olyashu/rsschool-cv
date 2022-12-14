@@ -22,6 +22,14 @@ I am interested in programming and web development. I like to learn new things.
 
 
 ## Code
+```
+let i = 0;
+let arr = ["sound1", "sound2", "sound3", "sound4", "sound5"];
+while(i < arr.length) {
+     console.log(arr[i]);
+     i++;
+ }
+ ```
 
 
 ## Courses
@@ -30,6 +38,7 @@ ITMO University - Web developer
 
 
 ## Projects
+[CV](https://olyashu.github.io/rsschool-cv/)
 
 ## Education
 South Ural State University
