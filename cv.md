@@ -29,6 +29,7 @@ while(i < arr.length) {
      console.log(arr[i]);
      i++;
  }
+
 ```
 
 ## Courses
