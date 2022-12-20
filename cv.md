@@ -39,6 +39,7 @@ function countBy(x, n) {
 ## Courses
 
 ITMO University - Web developer
+
 RS School JS/FE Stage0 (in progress)
 
 
