@@ -4,9 +4,9 @@
 
 ## Contacts
 
-- email: ferloa08@gmail.com
+- email: [ferloa08@gmail.com](mailto:ferloa08@gmail.com)
 
-- Github: olyashu
+- Github: [olyashu](https://github.com/olyashu)
 
 - Discord: Olga(@olyashu)
 
